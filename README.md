@@ -20,7 +20,7 @@ install_github( "Abernethy/abremDebias")
 install_url("http://download.r-forge.r-project.org/src/contrib/debias_0.1.9.tar.gz")
 install_github( "Abernethy/abrem@dev-public")
 ```
-**IMPORTANT NOTES!**  
+IMPORTANT NOTES!   
 1. MAC OS X: gfortran dependencies. In order to get lgfortran for Mac OS. Execute at the terminal 
 ```
 curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
