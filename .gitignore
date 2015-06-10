@@ -5,3 +5,6 @@
 .Rhistory
 vignettes/*
 !vignettes/using_abrem.Rnw
+.Rproj.user
+*.Rproj
+*.Rbuildignore
